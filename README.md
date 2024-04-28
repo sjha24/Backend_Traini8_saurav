@@ -129,6 +129,17 @@ The Training Center Management System is a RESTful API designed to manage traini
 
 ![Screenshot (409)](https://github.com/sjha24/Backend_Traini8_saurav/assets/98340874/0bef87b5-231a-43d0-bf63-936e589b9f18)
 
+## Users can filter the list of training centers based on the various atributes likes
+
+![Screenshot (411)](https://github.com/sjha24/Backend_Traini8_saurav/assets/98340874/fcd50faf-4317-47a6-be53-a5cc3aaa4774)
+
+### filter by center name
+![Screenshot (410)](https://github.com/sjha24/Backend_Traini8_saurav/assets/98340874/1b034850-83a4-4f9c-8594-888255db12dc)
+
+### filter by student capacity - which would return centers with a capacity greater than or equal to the specified number.
+
+![Screenshot (413)](https://github.com/sjha24/Backend_Traini8_saurav/assets/98340874/4cbcb343-2e01-473a-83cd-545b5949c591)
+
 
 ## Swagger Support for API Documentation
 
